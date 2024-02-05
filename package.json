@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/kumod1164/BackendDeployPre/issues"
   },
-  "homepage": "https://github.com/kumod1164/BackendDeployPre#readme"
+  "homepage": "https://github.com/kumod1164/BackendDeployPre#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
 }
