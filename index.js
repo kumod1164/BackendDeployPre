@@ -11,7 +11,7 @@ const PORT = 8080;
 app.use(express.json());
 
 app.get("/", (req,res)=>{
-    res. send("Home Page")
+    res. send("Server is Running fine")
 })
 
 app.use("/user", userController);
